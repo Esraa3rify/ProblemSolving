@@ -18,4 +18,10 @@ Problem2:
  Find pivot index
  
  ![image](https://user-images.githubusercontent.com/59229510/181049153-d8b5aa81-c550-4069-b720-31725ce3e8ed.png)
+ 
+ Problem4:
+ 
+ String Seperator
+ 
+ 
 
