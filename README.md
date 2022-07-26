@@ -12,3 +12,10 @@ Problem2:
  Running Sum of 1d Array
  
  ![Running Sum of 1d array](https://user-images.githubusercontent.com/59229510/181039473-c1121af4-6d11-4747-95bc-723bd418c1c5.jpg)
+ 
+ Problem3:
+ 
+ Find pivot index
+ 
+ ![image](https://user-images.githubusercontent.com/59229510/181049153-d8b5aa81-c550-4069-b720-31725ce3e8ed.png)
+
