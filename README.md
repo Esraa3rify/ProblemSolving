@@ -21,9 +21,7 @@ Problem2:
  
  Problem4:
  
- String Seperator
  
- ![string seperator_IP](https://user-images.githubusercontent.com/59229510/181066045-00ce8489-538d-4e4b-8810-3d5efd32685f.jpg)
 
  
  
