@@ -1,5 +1,7 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
+        
+        if(s.length()==0) return true;
     
     //intialize the pointers that i will use to check the two strings
         
@@ -9,7 +11,7 @@ class Solution {
         
         while(i<s.length() && j<t.length()){
             
-            if the char that the pointer in s refers to == the char that the pointer in t refers to 
+            //if the char that the pointer in s refers to == the char that the pointer in t refers to 
             
             if(s.charAt(i)==t.charAt(j)){
             
@@ -33,6 +35,11 @@ class Solution {
             }
          
         }
+        
+          return false;
+        
+    }
+}
         
           return false;
         
