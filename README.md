@@ -24,6 +24,12 @@ Problem2:
  Is Subsequent
  
  ![subsequent](https://user-images.githubusercontent.com/59229510/182034165-0dc5b4e5-a53e-4673-9e26-c37c7707b083.jpg)
+ 
+ Problem5:
+ 
+ Binary Search
+ 
+ ![Screenshot 2022-08-11 141503](https://user-images.githubusercontent.com/59229510/184131086-664e68c1-66ed-4635-af8b-8ea8af88ec77.jpg)
 
  
  
