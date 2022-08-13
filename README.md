@@ -30,6 +30,12 @@ Problem2:
  Binary Search
  
  ![Screenshot 2022-08-11 141503](https://user-images.githubusercontent.com/59229510/184131086-664e68c1-66ed-4635-af8b-8ea8af88ec77.jpg)
+ 
+ Proplem6:
+ 
+ First Bad Version.....Note: Said that it is a commom Problem in Facebook Interviews.
+ 
+ 
 
  
  
