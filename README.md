@@ -35,6 +35,9 @@ Problem2:
  
  First Bad Version.....Note: Said that it is a commom Problem in Facebook Interviews.
  
+ ![first bad version](https://user-images.githubusercontent.com/59229510/184500025-9e099d75-690b-42cd-8fc3-39c50f5f66fa.jpg)
+
+ 
  
 
  
