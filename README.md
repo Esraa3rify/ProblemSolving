@@ -36,6 +36,12 @@ Problem2:
  First Bad Version.....Note: Said that it is a commom Problem in Facebook Interviews.
  
  ![first bad version](https://user-images.githubusercontent.com/59229510/184500025-9e099d75-690b-42cd-8fc3-39c50f5f66fa.jpg)
+ 
+ Proplem7:
+ 
+ Search Insert Position:
+ 
+ ![Screenshot 2022-08-15 155012](https://user-images.githubusercontent.com/59229510/184648043-b1da72eb-88e1-4cef-a8e4-e0b92a232c4c.jpg)
 
  
  
