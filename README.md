@@ -47,6 +47,9 @@ Problem2:
  
  Contains Duplicate
  
+ ![Screenshot 2022-08-30 170714](https://user-images.githubusercontent.com/59229510/187474170-36ca7875-a0e4-4d16-83a9-ec7a0ae10fbd.jpg)
+
+ 
  
  
 
