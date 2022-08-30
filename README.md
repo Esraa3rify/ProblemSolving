@@ -43,6 +43,10 @@ Problem2:
  
  ![Screenshot 2022-08-15 155012](https://user-images.githubusercontent.com/59229510/184648043-b1da72eb-88e1-4cef-a8e4-e0b92a232c4c.jpg)
 
+ Problem8:
+ 
+ Contains Duplicate
+ 
  
  
 
