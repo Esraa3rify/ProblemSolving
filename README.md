@@ -57,6 +57,13 @@ Problem2:
  ![Screenshot 2022-08-30 180516](https://user-images.githubusercontent.com/59229510/187486245-a26521b4-928b-4ae2-90c6-806b42b710ad.jpg)
  
  
+ Problem9:
+ 
+ Find First and Last Position of Element in Sorted Array
+ 
+ ![Screenshot 2022-09-17 110656](https://user-images.githubusercontent.com/59229510/190849307-452ecb02-eb63-4d25-858d-38b965da4e25.jpg)
+ 
+ 
 
  
  
