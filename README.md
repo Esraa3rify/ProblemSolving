@@ -64,9 +64,11 @@ Problem2:
  ![Screenshot 2022-09-17 110656](https://user-images.githubusercontent.com/59229510/190849307-452ecb02-eb63-4d25-858d-38b965da4e25.jpg)
  
  
-
+Problem10:
  
+ Roman to Integer
  
+ ![Screenshot 2022-09-18 172442](https://user-images.githubusercontent.com/59229510/190914856-8ca08dd0-2776-41db-94b9-265ac9f19a9c.jpg)
  
 
  
