@@ -70,7 +70,11 @@ Problem10:
  
  ![Screenshot 2022-09-18 172442](https://user-images.githubusercontent.com/59229510/190914856-8ca08dd0-2776-41db-94b9-265ac9f19a9c.jpg)
  
+Problem11:
 
+valid parentheses
+
+![Screenshot 2022-10-02 191321](https://user-images.githubusercontent.com/59229510/193467102-82d36e00-419d-4fa5-9d6b-d5f158c797af.jpg)
  
  
 
