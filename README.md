@@ -76,7 +76,12 @@ valid parentheses
 
 ![Screenshot 2022-10-02 191321](https://user-images.githubusercontent.com/59229510/193467102-82d36e00-419d-4fa5-9d6b-d5f158c797af.jpg)
  
+ Problem 13:
  
+ 3Sum Closest
+ 
+ ![Screenshot 2022-10-08 104639](https://user-images.githubusercontent.com/59229510/194698759-b2cacbf0-eec3-43d7-a098-2217904ed552.jpg)
+
 
  
  
