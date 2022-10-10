@@ -89,4 +89,12 @@ valid parentheses
  
 ![Screenshot 2022-10-08 152837](https://user-images.githubusercontent.com/59229510/194710004-c79e0443-b47b-4765-9ca8-01e00f2ff285.jpg)
  
+ 
+ Problem15:
+ 
+ Plus One
+
+![image](https://user-images.githubusercontent.com/59229510/194901086-dbba28e6-f73b-4e5c-abd8-ed9497cd9d2f.png)
+
+
 
