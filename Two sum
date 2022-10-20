@@ -19,3 +19,25 @@ class Solution {
         return index ;
     }
 }
+
+
+
+Using Brute force
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+
+
+        for(int i=0;i<nums.length;i++){
+            for(int x=i+1;x<nums.length;x++){
+                int complement=target-nums[i];
+                if(complement==nums[x]){
+                    return new int [] {i,x};
+                }
+            }
+        }
+
+        throw new IllegalArgumentException("No match found");
+        
+    }
+}
