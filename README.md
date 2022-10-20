@@ -96,5 +96,11 @@ valid parentheses
 
 ![image](https://user-images.githubusercontent.com/59229510/194901086-dbba28e6-f73b-4e5c-abd8-ed9497cd9d2f.png)
 
+Problem16:
+
+Two sum.
+
+![Screenshot 2022-10-20 070625](https://user-images.githubusercontent.com/59229510/196861063-efad0105-1939-479d-86b6-cb836d669b96.jpg)
+
 
 
