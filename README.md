@@ -106,6 +106,8 @@ Problem17:
 
 LongestConsecutiveSequence.
 
+![image](https://user-images.githubusercontent.com/59229510/197465736-3517628f-5500-4e13-beb5-bebbf008a5b0.png)
+
 
 
 
