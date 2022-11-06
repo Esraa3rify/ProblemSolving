@@ -109,6 +109,13 @@ LongestConsecutiveSequence.
 ![image](https://user-images.githubusercontent.com/59229510/197465736-3517628f-5500-4e13-beb5-bebbf008a5b0.png)
 
 
+Problem18:
+
+Word Break
+
+![Screenshot 2022-11-06 131702](https://user-images.githubusercontent.com/59229510/200167564-1083e0ab-2b94-4002-9bb9-c174ffc47c0c.jpg)
+
+
 
 
 
