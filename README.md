@@ -118,6 +118,14 @@ Word Break
 
 Problem19:
 
+Palindrome Number
+
 ![Screenshot 2022-11-10 141721](https://user-images.githubusercontent.com/59229510/201089555-4e1e6585-d4ed-4681-bedb-467646ab1879.jpg)
+
+Problem20:
+
+sort an array
+
+![Screenshot 2022-11-10 145406](https://user-images.githubusercontent.com/59229510/201096879-370c0742-efd0-41ec-ad28-2e3dd6ccad02.jpg)
 
 
