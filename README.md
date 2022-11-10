@@ -116,6 +116,8 @@ Word Break
 ![Screenshot 2022-11-06 131702](https://user-images.githubusercontent.com/59229510/200167564-1083e0ab-2b94-4002-9bb9-c174ffc47c0c.jpg)
 
 
+Problem19:
 
+![Screenshot 2022-11-10 141721](https://user-images.githubusercontent.com/59229510/201089555-4e1e6585-d4ed-4681-bedb-467646ab1879.jpg)
 
 
