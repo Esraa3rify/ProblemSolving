@@ -1,0 +1,6 @@
+int solution(int param1, int param2) {
+    int first_number = param1;  // Initialize first_number with param1
+    int second_number = param2; // Initialize second_number with param2
+
+    return first_number + second_number;
+}
